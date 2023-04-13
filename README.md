@@ -1,5 +1,4 @@
-# Pouca Teia
-
+# Every Web is a Home
 
 <p align="center">
   <img src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/220295/img_5699_0.png?itok=M-qYeYjC&timestamp=1548608241" width="370">
